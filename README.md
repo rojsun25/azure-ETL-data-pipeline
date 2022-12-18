@@ -6,7 +6,7 @@ Azure cloud data services and its scripts
 Standard Tasks in order (reusable code using python)
 
 ## Task 1 
-Uploading files in the Azure Blob storage  
+Uploading files in the Azure Blob storage - blob storage/uploadToBlobStorage.py
 
 ## Task 2
 
