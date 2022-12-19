@@ -13,5 +13,3 @@ def uploadToBlobStorage(file_path,file_name):
       blob_client.upload_blob(data)
       print(f"Uploaded {file_name}.")
       
-# calling a function to perform upload
-uploadToBlobStorage(' ',' ')
