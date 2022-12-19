@@ -1,5 +1,4 @@
-from azure_ETL_data_pipelines.blob_storage import uploadToBlobStorage
-
+import blob_storage.uploadToBlobStorage
 
 # calling a function to perform upload file_path,file_name 
 uploadToBlobStorage(' ', ' ')
